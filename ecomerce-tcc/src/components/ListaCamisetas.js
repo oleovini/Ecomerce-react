@@ -1,5 +1,5 @@
 import React from 'react';
-import Camiseta from './Camiseta';
+import Camiseta from './camiseta';
 
 const ListaCamisetas = ({ camisetas, onAddToCart }) => {
   return (
