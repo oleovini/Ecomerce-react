@@ -1,2 +1,3 @@
-# Ecomerce-react
+# Ecomerce-react 
+# Author : Leonardo Vini, Leonardo Nascimento
  
